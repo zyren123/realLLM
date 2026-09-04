@@ -31,3 +31,4 @@ outputs/
 # Ray
 ray_temp/
 /tmp/ray/
+.scratch/
